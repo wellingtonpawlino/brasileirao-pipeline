@@ -63,3 +63,6 @@ inputs/
 
 # pytest
 .cache
+
+
+setup_projeto.py
