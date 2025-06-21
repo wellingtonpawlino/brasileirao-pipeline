@@ -1,0 +1,65 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IPython history
+profile_default/
+ipython_config.py
+
+# Airflow
+airflow.cfg
+unittests.cfg
+logs/
+dags/
+airflow.db
+
+# PySpark
+spark-warehouse/
+
+# Environments
+.env
+*.env
+
+# Config files
+config.json
+
+# Data files
+data/
+inputs/
+
+# VS Code
+.vscode/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# PyCharm
+.idea/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.cache
